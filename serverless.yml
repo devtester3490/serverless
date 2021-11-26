@@ -15,7 +15,7 @@ frameworkVersion: '2'
 provider:
   name: aws
   runtime: nodejs12.x
-  lambdaHashingVersion: 20201221
+  lambdaHashingVersion: 20201222
 
 functions:
   hello:
